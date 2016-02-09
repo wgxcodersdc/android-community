@@ -1,11 +1,9 @@
 # Women Who Code DC Java Resources
 
-** First monday of the month - beginner meetup
 
 ### Suggested Learning Tools
 You will get the most out of our meetups if you follow one of our suggested resources. These are the classes/books/resources that our members know the best and can offer the most support for.
 
-We will not assist with work problems. We are here to help you learn the skills that will help you solve work problems, but asking about work related problems derails the productivity of everyone at the event. Repeated requests for solutions to work problems will result in our leaders asking you to leave.
 
 **Beginner**   
 
@@ -25,31 +23,38 @@ We will not assist with work problems. We are here to help you learn the skills 
 
 We have also compiled a lot of resources that may or may not be useful for learning Java and/or Android. Some members may have experience with the resources - but we cannot guarantee assistance at our meetups. Members will get priority help if they have questions related to the above resources.
 
-**JAVA COURSES**
-
-* [Java for Complete Beginners (Udemy)](https://www.udemy.com/java-tutorial/)
-* [Stanford Intro to Java](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
+**TEACH YOURSELF CURRICULUM**
 * [A Bachelor’s Level Computer Science Curriculum](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
-* [Intro to Programming Udacity: Java](https://www.udacity.com/course/cs046)
+* [Introduction to Computer Science 1 Curriculum](https://learn.saylor.org/course/view.php?id=6)
+
+**CLASSROOM STYLE**
 * [MIT Introduction to Programming in Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Coursera Introduction to Android Programming](https://class.coursera.org/android-001/lecture)
-* [Intro to Programming](http://www.saylor.org/courses/cs101/)
+
+**CHALLENGE YOURSELF IN JAVA**
+* [Hackerrank](https://www.hackerrank.com/domains/java/java-introduction/difficulty/all/page/1)
+* [Programming By Doing](https://programmingbydoing.com/)
+
+**ONLINE COURSES BAD TUTORIALS**
+* [Java for Complete Beginners (Udemy)](https://www.udemy.com/java-tutorial/)
+* [Saylor: Java Fundamentals](https://learn.saylor.org/mod/page/view.php?id=36)
 * [Virtual Pair Programmers](https://www.virtualpairprogrammers.com/training-courses/Java-Fundamentals-training.html)
-
-**JAVA BOOKS**
-
-* [Head First Java](http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208/ref=sr_1_1?ie=UTF8&qid=1400022857&sr=8-1&keywords=head+first+java)
-* [Java: How to Program, 9th Edition (Deitel)](http://www.amazon.com/Java-How-Program-Edition-Deitel/dp/0132575663)
-* [Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
-
-**JAVA LINKS**
-
-* [Java Install - Windows](https://docs.google.com/document/d/1ta3rGU8JUHxvqEFFuGaopkqsaZZgbpHjF-6mhSxBJy8/edit?usp=sharing)
 * [Coding Bat Java Exercises](http://codingbat.com/java)
 * [Coderbyte Java Exercises](http://www.coderbyte.com/CodingArea/Challenges/)
 * [Tutorialspoint Java Guides](http://www.tutorialspoint.com/java/)
-* [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
+
+**JAVA BOOKS**
+* [Head First Java](http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208/ref=sr_1_1?ie=UTF8&qid=1400022857&sr=8-1&keywords=head+first+java)
+* [Java: How to Program, 9th Edition (Deitel)](http://www.amazon.com/Java-How-Program-Edition-Deitel/dp/0132575663)
+* [Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
+* [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/)
+*[Free Computer Books in Java](http://freecomputerbooks.com/search.html?cx=partner-pub-5976068913745703%3A4325807428&cof=FORID%3A10&ie=UTF-8&q=java+programming&sitesearch=freecomputerbooks.com&keywords=java+programming)
+
+**JAVA REFERENCESS**
+
+* [Java Install - Windows](https://docs.google.com/document/d/1ta3rGU8JUHxvqEFFuGaopkqsaZZgbpHjF-6mhSxBJy8/edit?usp=sharing)
+* [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 **ANDROID COURSES**
 
@@ -58,7 +63,6 @@ We have also compiled a lot of resources that may or may not be useful for learn
 * [Beginner Coursera](https://www.coursera.org/course/androidapps101)
 * [Lyndia.com](http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html)
 * [University of Reading Beginner Tutorial](https://www.futurelearn.com/courses/begin-programming)
-
 
 **ANDROID BOOKS**
 
