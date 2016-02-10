@@ -35,7 +35,7 @@ We have also compiled a lot of resources that may or may not be useful for learn
 * [Hackerrank](https://www.hackerrank.com/domains/java/java-introduction/difficulty/all/page/1)
 * [Programming By Doing](https://programmingbydoing.com/)
 
-**ONLINE COURSES BAD TUTORIALS**
+**ONLINE COURSES AND TUTORIALS**
 * [Java for Complete Beginners (Udemy)](https://www.udemy.com/java-tutorial/)
 * [Saylor: Java Fundamentals](https://learn.saylor.org/mod/page/view.php?id=36)
 * [Virtual Pair Programmers](https://www.virtualpairprogrammers.com/training-courses/Java-Fundamentals-training.html)
@@ -49,7 +49,7 @@ We have also compiled a lot of resources that may or may not be useful for learn
 * [Java: How to Program, 9th Edition (Deitel)](http://www.amazon.com/Java-How-Program-Edition-Deitel/dp/0132575663)
 * [Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/)
-*[Free Computer Books in Java](http://freecomputerbooks.com/search.html?cx=partner-pub-5976068913745703%3A4325807428&cof=FORID%3A10&ie=UTF-8&q=java+programming&sitesearch=freecomputerbooks.com&keywords=java+programming)
+* [Free Computer Books in Java](http://freecomputerbooks.com/search.html?cx=partner-pub-5976068913745703%3A4325807428&cof=FORID%3A10&ie=UTF-8&q=java+programming&sitesearch=freecomputerbooks.com&keywords=java+programming)
 
 **JAVA REFERENCESS**
 
