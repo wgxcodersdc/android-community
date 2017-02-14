@@ -14,7 +14,7 @@ You will get the most out of our meetups if you follow one of our suggested reso
 
 * [Coursera Android Specialization](https://www.coursera.org/specialization/mobilecloudcomputing2/36?utm_medium=listingPage)
 
-((Actually maybe we will just follow [CodePath](http://guides.codepath.com/android)))
+* [CodePath](http://guides.codepath.com/android)
 
 ===
 ===
