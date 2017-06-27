@@ -11,4 +11,4 @@ learning how to program on the android mobile application development platform a
 * Java Fundamentals Part 1(presentaion coming soon)
 ## Past Meetups
 * [Build your First Android App] (https://developer.android.com/training/basics/firstapp/index.html)
-* [Building Layouts]
+* [Building Layouts](presentation coming soon)
