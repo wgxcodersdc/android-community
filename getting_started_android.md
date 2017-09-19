@@ -9,17 +9,8 @@
 * <a href="#InstallAS">Now what? (Install Android Studio)</a>
 * <a href="#InstallPackages">Install Necessary Packages</a>
 * <a href="#SetupPhone">Setup your phone/tablet</a>
-* <a href="#HelloAndroid">Hello, **~~World~~** Android!</a>
-* <a href="#InstallFasterEmulator">Install a Faster Emulator</a>
-* <a href="#Sharing">Sharing your app with others</a>
-* <a href="#PutAppInStore">Putting your app in the Google Play or Amazon App Stores</a>
-* <a href="#InexpensivePhones">Where to buy inexpensive Android phones</a>
-* <a href="#OnlineCourses">Online Android Courses</a>
-* <a href="#AndroidResources">Android Resources</a>
 * <a href="#JavaResources">Java Resources</a>
-* <a href="#IDEs">Additional IDEs</a>
 * <a href="#Help">Get Help</a>
-* <a href="#Challenges">Challenges and Projects</a>
 * <a href="#KeepInTouch">Keep in Touch</a>
 
 ### <a name="WhatsAndroid">What is Android?</a> ###
