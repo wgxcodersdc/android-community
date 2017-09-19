@@ -1,7 +1,5 @@
 ##Welcome to the Android Hack Night Getting Started Guide##
 
-_If you are brand new to Android, we recommend coming to the first meeting of the month which is **First-Timers Night**.  You are welcome to come any week, but that first week will be the one when we cater to beginners._
-
 **Table of Contents**
 * <a href="#SuggestedCourses">Suggested Courses</a>
 * <a href="#WhatsAndroid">What is Android?</a>
@@ -44,7 +42,7 @@ You can write Android programs on PCs, Macs, and Linux machines.  This is unlike
 
 ###<a name="PhoneNotNeeded">Do I need an Android phone/tablet in order to make an app?</a>###
 
-No!  Though it sure is fun to put the apps you make on your own device.  The Android SDK includes a mobile device emulator — a virtual mobile device that runs on your computer. The emulator lets you develop and test Android applications without using a physical device.  There are other emulators like genymotion which we will discuss later.
+No!  Though it sure is fun to put the apps you make on your own device.  The Android SDK includes a mobile device emulator — a virtual mobile device that runs on your computer. The emulator lets you develop and test Android applications without using a physical device. 
 
 ###<a name="InstallJava">I'm ready to get started.  What should I do first?</a>###
 
@@ -90,7 +88,7 @@ If you need to use the Android SDK tools from a command line, you can access the
 
 **Ensure that you have the most recent version of Android Studio:**
 
-After launching Android Studio, select the check for updates option in the toolbar. 
+After launching Android Studio, select the check for updates option in the toolbar.
 
 ###<a name="InstallPackages">Wait, there's more!  Time to install packages.</a>###
 
@@ -101,7 +99,7 @@ Android Studio doesn't work right out of the box, so we will have to install som
 * Select _SDK Manager_.
 * In the window that opens, select the following packages:
   *  Tools - this should select all items in that category.
-  *  Android 4.4.2 (API 19) 
+  *  Android 4.4.2 (API 19)
   *  In the Extras category:  Android Support Repository, Android Support Library, Google Repository, and Google USB Driver
 * Select _Install Packages_.
 * Accept License Agreement.
@@ -135,7 +133,7 @@ It’s time to check to see if everything has been installed and is working prop
   * Android Studio may take a minute or two to set up and then open your project. On Windows, allow any requests for Internet access you are prompted for.
   * To test your app, hit the run button (looks like a green play button).  
   * If there are no errors, you will be prompted to run on a specific device or on an emulator.  If your device is plugged in and drivers are loaded, it should show up in the list.  If it doesn't, you might have to install the driver for your phone from the manufacturer's website.
-  
+
 ###<a name="InstallFasterEmulator">How to install a faster emulator</a>###
 
 [Genymotion](http://www.genymotion.com/) is an incredibly fast, memory-efficient VM that runs the Android OS in a more accurate manner than even the official emulator.  Many Android developers do all their device testing using this emulator especially when Google Play services is concerned.  In addition, the official Android emulator is plagued with a lot of bugs (i.e. intermittent network loss) that Genymotion is usually a far more reliable option.  [Start here](https://github.com/codepath/android_guides/wiki/Genymotion-2.0-Emulators-with-Google-App-support).
@@ -157,7 +155,7 @@ Once you have your app in a place where you wish to share it, you can package yo
 ###<a name="InexpensivePhones">Where to buy inexpensive Android phones</a>
 
 * [FreedomPop - $24.99](https://www.freedompop.com/offer/zte2499promo?utm_source=affiliate&utm_medium=slickdeals&utm_campaign=zte2499promo&sdtid=7609918)
-  
+
 ###<a name="OnlineCourses">Online Android Courses</a>###
 
 Some older resources use Eclipse, but similar features are available in Android Studio.
@@ -241,8 +239,3 @@ Check out the **Challenges and Projects** document. [Coming soon].
 * Check us out on [Github](https://github.com/womenwhocodedc).
 * Visit our [website](http://womenwhocodedc.github.io/).
 * Join our [Slack](https://docs.google.com/forms/d/1BXxIJuCawYt3pEzN7-6CgdT6XrhvG0KYQpOqdmv98DY/viewform) group.
-
-
-
-
-
