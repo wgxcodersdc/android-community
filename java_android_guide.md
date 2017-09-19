@@ -16,8 +16,6 @@ You will get the most out of our meetups if you follow one of our suggested reso
 
 * [CodePath](http://guides.codepath.com/android)
 
-===
-===
 
 ### Alternate Resources
 
