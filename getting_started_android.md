@@ -84,7 +84,7 @@ If you need to use the Android SDK tools from a command line, you can access the
 
 After launching Android Studio, select the check for updates option in the toolbar.
 
-###<a name="InstallPackages">Wait, there's more!  Time to install packages.</a>###
+### <a name="InstallPackages">Wait, there's more!  Time to install packages.</a> ###
 
 Android Studio doesn't work right out of the box, so we will have to install some additional packages in order to make it run properly.  Here are the ones we recommend; you can always add additional packages or delete unnecessary ones later.
 
@@ -99,7 +99,7 @@ Android Studio doesn't work right out of the box, so we will have to install som
 * Accept License Agreement.
 * Grab your favorite beverage or book to read; this is going to take a while.  
 
-###<a name="SetupPhone">Let’s take the time to set up your phone.</a>###
+### <a name="SetupPhone">Let’s take the time to set up your phone.</a> ###
 
 Now is a good time as any to set up your phone/tablet if you have one. emember, you can build and test many apps with just the built-in emulator, so the connected phone/tablet is just a bonus.  You have to do four things to enable testing of your apps on your device:
 
