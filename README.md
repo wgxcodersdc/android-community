@@ -15,6 +15,6 @@ In this workshop we spent time installing Java and Android Studio.
 In order to develop Android applications you must have the Java JDK and
 Android Studio installed. Please find installation guide below for references
 
-[Windows Installation Guide](https://s3.amazonaws.com/content.udacity-data.com/course/ud853/Android+Studio+Setup+Guide+for+Windows+(6).pdf)
-[Mac Installation Guide](https://s3.amazonaws.com/content.udacity-data.com/course/ud853/Android+Studio+Setup+Guide+for+Mac.pdf)
-[Linux Instalaltion Guide](https://www.lifewire.com/install-android-studio-for-linux-4056779)
+[Windows Installation Guide](https://s3.amazonaws.com/content.udacity-data.com/course/ud853/Android+Studio+Setup+Guide+for+Windows+(6).pdf)  
+[Mac Installation Guide](https://s3.amazonaws.com/content.udacity-data.com/course/ud853/Android+Studio+Setup+Guide+for+Mac.pdf)  
+[Linux Instalaltion Guide](https://www.lifewire.com/install-android-studio-for-linux-4056779)  
