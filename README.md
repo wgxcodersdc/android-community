@@ -7,8 +7,14 @@ learning how to program on the android mobile application development platform a
 
 **Feel free to request future meetup topics in womenwhocodedc.slack.com
 
-## Past Java Meetups
-* Java Fundamentals Part 1(presentaion coming soon)
-## Past Meetups
-* [Build your First Android App] (https://developer.android.com/training/basics/firstapp/index.html)
-* [Building Layouts](presentation coming soon)
+## Android Beginner Workshops
+
+### Workshop 1 : Getting Setup with Android Studio
+
+In this workshop we spent time installing Java and Android Studio.
+In order to develop Android applications you must have the Java JDK and
+Android Studio installed. Please find installation guide below for references
+
+[Windows Installation Guide](https://s3.amazonaws.com/content.udacity-data.com/course/ud853/Android+Studio+Setup+Guide+for+Windows+(6).pdf)
+[Mac Installation Guide](https://s3.amazonaws.com/content.udacity-data.com/course/ud853/Android+Studio+Setup+Guide+for+Mac.pdf)
+[Linux Instalaltion Guide](https://www.lifewire.com/install-android-studio-for-linux-4056779)
